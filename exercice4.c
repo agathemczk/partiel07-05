@@ -76,7 +76,7 @@ int main() {
     head = addElement(head, third_car);
 
     printList(head);
-    printf("\n//////////////////////   supression de la 208   //////////////////////\n");
+    printf("\n//////////////////////   supression de la208   //////////////////////\n");
 
     head = deleteCarByModel(head,"208");
     printList(head);
