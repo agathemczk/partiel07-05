@@ -1,6 +1,3 @@
-// Écrire un programme qui déclare deux variables numériques. Utiliser des
-// pointeurs pour échanger les valeurs de ces deux variables sans utiliser de variable temporaire.
-
 # include <stdio.h>
 
 int main() {
